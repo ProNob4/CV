@@ -1,91 +1,91 @@
-# 📚 Data Structures: From Basics to Advanced
+# 📄 Pronob Chandra Sarkar - CV
 
-Welcome to the ultimate repository for mastering **Data Structures**! This repo is a structured journey from fundamental concepts to advanced data structures, complete with explanations, diagrams, and code implementations in [your preferred language, e.g., Python/C++/Java].
+Welcome to my CV repository! This README presents my professional background, skills, education, and projects in a developer-friendly format.
 
 ---
 
 ## 📌 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Basic Data Structures](#basic-data-structures)
-   - Arrays
-   - Linked Lists
-   - Stacks
-   - Queues
-3. [Intermediate Data Structures](#intermediate-data-structures)
-   - Hash Tables
-   - Trees
-   - Heaps
-   - Graphs
-4. [Advanced Data Structures](#advanced-data-structures)
-   - Trie
-   - Segment Tree
-   - Fenwick Tree (BIT)
-   - Disjoint Set Union (DSU)
-   - AVL / Red-Black Tree
-   - B-Trees and B+ Trees
-5. [Specialized Topics](#specialized-topics)
-6. [Installation & Usage](#installation--usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+- [About Me](#about-me)
+- [Resume Snapshot](#resume-snapshot)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Education](#education)
+- [Projects](#projects)
+- [Languages](#languages)
+- [Contact](#contact)
 
 ---
 
-## 🧠 Introduction
+## 👤 About Me
 
-This repository is designed to help students, developers, and enthusiasts master data structures in a structured way. Whether you're preparing for coding interviews or building complex systems, these topics will strengthen your foundation.
-
----
-
-## 🔰 Basic Data Structures
-
-| Topic        | Description | Code |
-|--------------|-------------|------|
-| Arrays       | Fixed-size sequential containers | [View](./Basics/Arrays) |
-| Linked Lists | Singly, Doubly, Circular lists | [View](./Basics/LinkedLists) |
-| Stacks       | LIFO structure | [View](./Basics/Stacks) |
-| Queues       | FIFO, Circular, Deque | [View](./Basics/Queues) |
+Hi, I'm **Pronob Chandra Sarkar**, a passionate Computer Science student and software developer based in Savar, Dhaka, Bangladesh. I enjoy building web applications and exploring technology through hands-on development.
 
 ---
 
-## 🧱 Intermediate Data Structures
+## 🧾 Resume Snapshot
 
-| Topic        | Description | Code |
-|--------------|-------------|------|
-| Hash Tables  | Hashing, collision handling | [View](./Intermediate/HashTables) |
-| Trees        | Binary Trees, BSTs, Traversals | [View](./Intermediate/Trees) |
-| Heaps        | Min & Max Heaps, Priority Queues | [View](./Intermediate/Heaps) |
-| Graphs       | BFS, DFS, adjacency representations | [View](./Intermediate/Graphs) |
+- 📧 Email: [chandra15-4840@diu.edu.bd](mailto:chandra15-4840@diu.edu.bd)  
+- 📱 Phone: [+8801581412546](tel:+8801581412546)  
+- 📍 Location: Savar, Dhaka, Bangladesh  
+- 💼 GitHub: [github.com/ProNob4](https://github.com/ProNob4)
 
 ---
 
-## 🚀 Advanced Data Structures
+## 🛠️ Skills
 
-| Topic           | Description | Code |
-|------------------|-------------|------|
-| Trie             | Prefix trees for string matching | [View](./Advanced/Trie) |
-| Segment Tree     | Range query and update | [View](./Advanced/SegmentTree) |
-| Fenwick Tree     | Efficient prefix sums | [View](./Advanced/FenwickTree) |
-| DSU / Union-Find | Disjoint sets, Kruskal's algo | [View](./Advanced/DSU) |
-| AVL / Red-Black  | Self-balancing trees | [View](./Advanced/SelfBalancingTrees) |
-| B-Trees & B+     | Database indexing trees | [View](./Advanced/BTrees) |
+- **Languages:** Python, Java, C++, JavaScript  
+- **Web:** HTML5, CSS3  
+- **Tools & Platforms:** SQL, Git, MS Word, Excel, PowerPoint  
+- **Others:** Video Editing  
 
 ---
 
-## 🌐 Specialized Topics
+## 💼 Experience
 
-| Topic        | Description | Code |
-|--------------|-------------|------|
-| Suffix Trees & Arrays | Substring search | [View](./Specialized/SuffixTrees) |
-| K-D Trees    | Spatial data indexing | [View](./Specialized/KDTrees) |
-| Skip Lists   | Alternative to balanced BSTs | [View](./Specialized/SkipLists) |
-| Bloom Filters| Probabilistic set membership | [View](./Specialized/BloomFilters) |
+### Software Developer — Global International  
+*Jan 2024 – Present*  
+- Developed web applications using HTML, CSS, Python, and JavaScript.  
+- Collaborated with cross-functional teams to deliver high-quality software products.  
+- Implemented new features and resolved bugs in existing systems.
 
 ---
 
-## ⚙️ Installation & Usage
+## 🎓 Education
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/datastructures.git
-   cd datastructures
+- **Saver Govt. College**  
+  HSC — 2020  
+
+- **Daffodil International University**  
+  Bachelor of Science in Computer Science and Engineering (2022 – Present)  
+  GPA: 3.6 / 4.0
+
+---
+
+## 🚀 Projects
+
+- **Personal Website**  
+  A simple and clean site showcasing my profile and academic background.  
+  🌐 [View Website](https://sites.google.com/diu.edu.bd/pronobchandrasarkar/about)
+
+---
+
+## 🌐 Languages
+
+- **English**
+- **Bangla**
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out:
+
+- 📧 Email: [chandra15-4840@diu.edu.bd](mailto:chandra15-4840@diu.edu.bd)  
+- 📱 Phone: [+8801581412546](tel:+8801581412546)  
+- 💻 GitHub: [ProNob4](https://github.com/ProNob4)  
+- 🌍 Location: Savar, Dhaka, Bangladesh
+
+---
+
+### 🙏 Thank you for viewing my CV!
